@@ -1,4 +1,4 @@
-# veeamapp
+# markerplacer
 An app that places markers over an image
 
 do 'npm install'
